@@ -1,0 +1,6 @@
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/joho/godotenv v1.3.0 h1:Zjp+RcGpHhGlrMbJzXTrZZPrWj+1vfm90La1wgB6Bhc=
+github.com/joho/godotenv v1.3.0/go.mod h1:7hK45KPybAkOC6peb+G5yklZfMxEjkZhHbwpqxOKXbg=
+github.com/mailjet/mailjet-apiv3-go v0.0.0-20201009050126-c24bc15a9394 h1:+6kiV40vfmh17TDlZG15C2uGje1/XBGT32j6xKmUkqM=
+github.com/mailjet/mailjet-apiv3-go v0.0.0-20201009050126-c24bc15a9394/go.mod h1:ogN8Sxy3n5VKLhQxbtSBM3ICG/VgjXS/akQJIoDSrgA=
