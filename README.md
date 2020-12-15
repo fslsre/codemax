@@ -1,5 +1,4 @@
-1. 
-Set your api keys in .env file
+1. Set your api keys in .env file
 
 2. Run below command in project directory:
 go run app.go
